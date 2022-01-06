@@ -46,4 +46,4 @@ Service Control
    3) If the service is running, the Stop button is the only button enabled.  Stop the Service by clicking on the Start button.  This is the preferred
       method of temporarily easing up on application restrictions (start the service back up when controls need to be put back in place).
   
-  Enjoy1
+  Enjoy!!
