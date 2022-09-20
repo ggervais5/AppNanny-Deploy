@@ -54,4 +54,5 @@ Service Control
  ==========
    1) The Admin/Parent password is encrypted, safe from prying eyes!
    2) Very strong encryption, AES 256, is being used to encrypt AppNanny files.
-  Enjoy!!
+  
+ Enjoy!!
