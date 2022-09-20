@@ -44,11 +44,11 @@ How to Remove app restrictions or Un-mark applications as restricted
    
 Service Control
 ===============
-   1) If the services is not installed, the Install button is the only button enabled.
-   2) If the service is not running, the Remove and Start buttons are enabled, while the Install and Stop buttons are disabled.  Start the service or
+   1) If the AppKiller service is not installed, the Install button is the only button enabled.
+   2) If the AppKiller service is not running, the Remove and Start buttons are enabled, while the Install and Stop buttons are disabled.  Start the service or
       remove it by click on the appropriate button.
-   3) If the service is running, the Stop button is the only button enabled.  Stop the Service by clicking on the Start button.  This is the preferred
-      method of temporarily easing up on application restrictions (start the service back up when controls need to be put back in place).
+   3) If the AppKiller service is running, the Stop button is the only button enabled.  Stop the Service by clicking on the Start button.  This is the preferred
+      method of temporarily easing up on application restrictions (and start the service back up when controls need to be put back in place).
  
  Encryption
  ==========
