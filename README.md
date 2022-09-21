@@ -54,5 +54,14 @@ Service Control
  ==========
    1) The Admin/Parent password is encrypted, safe from prying eyes!
    2) Very strong encryption, AES 256, is being used to encrypt AppNanny files.
+   
+   When Things Go Wrong
+   ====================
+   1) Should the encryption keys go missing, the application will regenerate them and delete files encrypted using the previous keys.
+   2) If the password file goes missing, the application will take the user through the intial 1-time password setup again.
+   3) If the data files go missing or cannot be decrypted, the app will not load the form data, but data re-entered will again be
+      saved in encrypted data files.
+   4) When the data is changed, the service must be stopped and re-started again.  The service picks up the data only when it starts
+      and continues to work with that data until it restarts (by the application, using services.msc or a reboot).
   
  Enjoy!!
