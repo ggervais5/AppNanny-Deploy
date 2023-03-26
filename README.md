@@ -9,8 +9,7 @@ keeping them safe and/or away from distractions is the main goal.
 
 Supported versions of Windows
 =============================
-Windows 10
-Windows 11
+Windows 10, Windows 11
 
 What AppNanny Does
 ==================
