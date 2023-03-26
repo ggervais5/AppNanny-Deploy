@@ -7,6 +7,11 @@ during school hours.  The downside of teaching new tools to students soon came a
 My intent was to put controls in the hands of parents with children who need automated supervision, though the children will not like the controls.  However,
 keeping them safe and/or away from distractions is the main goal.
 
+Supported versions of Windows
+=============================
+Windows 10
+Windows 11
+
 What AppNanny Does
 ==================
 Parents, via a Windows app called AppNanny, select applications they wish to control, and enter allowed days/times when those applications can be used (e.g., during school hours).  Restrictions can identified for each application selected, and there is a default set of restrictions applying to other applications marked as being restricted.  AppNanny is password-protected with a Forget Password feature.  Forgotten passwords are sent to the parent's email set up when the program is first launched.  The password and parent email can be changed via the main AppNanny form.  This data is encrypted should prying eyes find the security file.  Parents can install a new version of the Windows service, uninstall it, stop it or start it by clicking buttons in the app - no technical skills required.  If changes are made to allowed days/times, the Windows service must be restarted to pick up the changes.   AppNanny may be closed once the settings are saved, and only re-opened if the settings need to change.
